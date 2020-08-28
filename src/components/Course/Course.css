@@ -1,0 +1,35 @@
+.course{
+    border: 1px solid goldenrod;
+    padding:10px;
+    margin: 10px 0;
+    display: flex;
+    box-shadow: 5px 5px 10px gray;
+}
+.enroleBtn{
+    padding:10px 20px;
+    background: goldenrod;
+    border: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.image{
+    margin-right: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.image img{
+    width:200px;
+    height: 100%;
+}
